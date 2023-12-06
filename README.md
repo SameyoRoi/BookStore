@@ -2,8 +2,6 @@
 
 The main project folder that for learning and practicing MVC2 model in class
 
-Live Demo: :point_right: [here](https://youtu.be/UFN6RS24hAc)
-
 ## Table of Contents
 - [Description](#description)
 - [Preview Screenshot](#preview-screenshot)
@@ -18,7 +16,6 @@ Live Demo: :point_right: [here](https://youtu.be/UFN6RS24hAc)
 - This application also contains a login and signup function for users
 - If you login in role Admin, you can search for user's information
 - If you buy the book, the application does not require you to login 
-- This web application is also my assignment under the requirement of teacher in class
 - This web works well on desktop, not for mobile
 
 ## Preview Screenshot
