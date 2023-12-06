@@ -2,15 +2,6 @@
 
 The main project folder that for learning and practicing MVC2 model in class
 
-## Table of Contents
-- [Description](#description)
-- [Preview Screenshot](#preview-screenshot)
-- [Technology](#technology)
-- [Useful Resources](#useful-resources)
-- [How can get started](#how-can-get-started)
-- [Learn More](#learn-more)
-- [License & Copyright](#license--copyright)
-
 ## Description
 - This is a book store web application for buying the book
 - This application also contains a login and signup function for users
