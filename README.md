@@ -46,27 +46,7 @@ The main project folder that for learning and practicing MVC2 model in class
   - Java JDK 8
   - Apache Tomcat 8.5.29
 
-## Useful Resources
-
-#| Name | Description
--| ---- | -----------
-1| [web Folder](https://github.com/tienhuynh-tn/java-web-application-development-prj301/tree/master/MVC2/web) | -
-2| [src Folder](https://github.com/tienhuynh-tn/java-web-application-development-prj301/tree/master/MVC2/src/java) | source code
-3| [Database File](https://github.com/tienhuynh-tn/java-web-application-development-prj301/blob/master/MVC2/Database-PRJ301-MVC2.sql) | database script
-4| [META-INF Folder](https://github.com/tienhuynh-tn/java-web-application-development-prj301/tree/master/MVC2/web/META-INF) | -
-5| [WEB-INF Folder](https://github.com/tienhuynh-tn/java-web-application-development-prj301/tree/master/MVC2/web/WEB-INF) | -
-
-## How Can Get Started
-
-- Using NetBeans 8.2 IDE to start project easier
-- After open project in IDE, import JSTL 1.2.1 library that support by IDE
-- Run the [`Database-PRJ301-MVC2.sql`](https://github.com/tienhuynh-tn/java-web-application-development-prj301/blob/master/MVC2/Database-PRJ301-MVC2.sql) script 
-- Replace some database connection imformation in [`context.xml`](https://github.com/tienhuynh-tn/java-web-application-development-prj301/blob/master/MVC2/web/META-INF/context.xml) file
 
 ## Learn More
 - [Manual Deploying Tomcat Server](https://github.com/tienhuynh-tn/java-web-application-development-prj301/tree/master/Manual%20Deploying%20Tomcat%20Server)
 
-## License & Copyright
-&copy; 2021 Tien Huynh tienhuynh-tn Licensed under the [GPL-3.0 LICENSE](https://github.com/tienhuynh-tn/java-web-application-development-prj301/blob/master/LICENSE).
-
-> :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture:
